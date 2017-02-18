@@ -28,3 +28,7 @@ To install:
   flask run
   ```
   By default, the server runs locally on localhost:5000.
+  
+6. Close the server.
+
+  Use `CTRL+C` to stop the server and `deactivate` to stop venv.
